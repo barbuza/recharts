@@ -1,5 +1,5 @@
 {
-  "name": "recharts",
+  "name": "@barbuza/recharts",
   "version": "0.22.4",
   "description": "React charts",
   "main": "lib/index",
@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "classnames": "2.2.5",
-    "core-js": "2.4.1",
+    "core-js": "~2",
     "d3-scale": "1.0.4",
     "d3-shape": "1.0.4",
     "lodash": "~4.17.4",
